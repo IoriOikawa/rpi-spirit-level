@@ -59,6 +59,8 @@ On Raspberry Pi, run:
 
 ## Usage
 
+![Panel Instruction](rpi-spirit-level-usage.jpg)
+
 - You may see the white-lit LEDs which indicate the bubble in the spirit level.
 - Pull the joystick towards different directions to change the 'liquidity' (sensitivity) of the spirit level. Press the joystick to reset it.
 - This spirit level is kind of 'shock proof'. You may try it with surfaces with vibration.
